@@ -1,7 +1,7 @@
 - My name is Livia
 - I’m a ML Engineer
 - My favorite subjects are deep learning, data science and computer vision.
-- 💞️ I’m looking to collaborate on cutting-edge deep learning libraries.
+- I’m looking to collaborate on cutting-edge deep learning libraries.
 - 📫 You can reach out to me at: livia-petru@protonmail.com
 
 <!---
